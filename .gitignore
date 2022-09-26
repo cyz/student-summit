@@ -1,0 +1,6 @@
+# Ignore Logs
+_site
+.sass-cache
+node_modules
+Gemfile.lock
+*.gem

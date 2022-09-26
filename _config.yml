@@ -1,0 +1,18 @@
+title:             Student Summit
+email:             email@domain.com
+description:       "O Microsoft Student Summit Brasil, um evento gratuito de 3 horas que oferece a estudantes do ensino superior como você a oportunidade de se envolver com a comunidade de desenvolvedores de estudantes da Microsoft e inovar com pessoas que pensam da mesma forma em sua área enquanto desenvolvem técnicas Habilidades."
+author:            Student Summit
+baseurl:           "/"
+imageurl:          "/assets/images/"
+url:               "https://cyz.github.io/student-summit/"
+
+# Social Profiles
+twitter_username:  MSFTReactor
+
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-paginate

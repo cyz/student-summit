@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Boas vindas ao Student Summit 2022!",
+        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira.",
+        "duration": "10",
+        "time": "19:00",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Conheça seus hosts locais!",
+        "description": "Conecte-se com Cynthia Zanoni e Pablo Lopes, nossos convidados e participe das atividades.",
+        "duration": "5",
+        "time": "19:10",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Minha jornada na tecnologia",
+        "description": "Conheça a história de Carla Mendes e sua transição de carreira para tecnologia.",
+        "duration": "15",
+        "time": "19:15",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Painel de Carreira",
+        "description": "Tire suas dúvidas sobre ter uma carreira em tecnologia! Por onde você começa e como é quando chega lá?",
+        "duration": "30",
+        "time": "19:30",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Lançamento da Imagine Cup",
+        "description": "A Imagine Cup está de volta. Saiba mais sobre esta emocionante competição global e como você pode começar a fazer a diferença no mundo se envolvendo.",
+        "duration": "5",
+        "time": "20:00",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Design Thinking na prática",
+        "description": "Traga suas ideias para esta divertida e rápida atividade de design thinking. Aprenda a transformar suas ideias em projetos inovadores!",
+        "duration": "25",
+        "time": "20:05",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Intervalo",
+        "description": "Pegue um cafézinho!",
+        "duration": "5",
+        "time": "20:25",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "O que é Cloud?",
+        "description": "Você provavelmente já ouviu falar dessa “nuvem” que todo mundo vive falando. Ouça um especialista que irá desmistificar a nuvem e mostrar o que você pode fazer com ela.",
+        "duration": "20",
+        "time": "20:30",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Primeiros passos em Cloud com GitHub e Azure",
+        "description": "Neste workshop interativo, você vai aprender a publicar seu próprio site na nuvem, utilizando GitHub e Azure.",
+        "duration": "45",
+        "time": "20:50",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Descobrindo a Imagine Cup",
+        "description": "Aprenda com mentores, juízes e competidores a transformar suas ideias em realidade com a Imagine Cup!",
+        "duration": "25",
+        "time": "21:35",
+        "speaker_name": "Marissol Mello Alves"
+    },
+    {
+        "title": "Encerramento",
+        "description": "Fique por dentro das próximas atividades no Reactor São Paulo.",
+        "duration": "5",
+        "time": "22",
+        "speaker_name": "Marissol Mello Alves"
+    }
+]
