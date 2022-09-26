@@ -7847,8 +7847,7 @@ textarea.form-control-lg {
 }
 
 .bg-black {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #222a39 !important;
 }
 
 .bg-white {
@@ -11292,7 +11291,7 @@ html {
 }
 
 .bg-black {
-  background-color: #000 !important;
+  background-color: #222a39 !important;
 }
 
 .bg-gradient-primary-to-secondary {
@@ -11337,13 +11336,15 @@ section {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #212529;
+  color: #274B47;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #6c757d;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #2937f0;
+  color: #491B7E;
 }
 
 /*!
@@ -11543,6 +11544,13 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
+
+.masthead h1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  letter-spacing: -.025rem;
+}
+
 .masthead .masthead-device-mockup {
   display: flex;
   align-items: center;
@@ -11624,9 +11632,46 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .schedule_item {
-  border-bottom: 1px solid #d2d2d2;
+  background-color: #fff;
+}
+
+.schedule_item:hover {
+  box-shadow: 2px 2px 8px rgb(0 0 0 / 50%);
 }
 
 .schedule_item_speaker img {
   height: 45px;
+}
+
+.schedule_item_speaker a,
+.resource_item a {
+  color: #274B47;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.schedule_item_speaker p {
+  line-height: 45px;
+}
+
+.secondary-title {
+  font-size: 3.5rem;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.btn-purple {
+  color: #fff;
+  background-color: #491B7E;
+  border-color: #491B7E;
+  font-weight: bold;
+}
+
+.btn-purple:hover {
+  background-color: #624991;
+  color: #fff;
+}
+
+.bg-dotted {
+  background: #491B7E;
 }
