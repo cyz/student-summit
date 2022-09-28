@@ -216,7 +216,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #ffcd39;
 }
 
 sub,
@@ -11332,8 +11332,9 @@ section {
 #mainNav .navbar-brand {
   font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:active {
-  color: #2937f0;
+  color: #071F4E;
 }
 #mainNav .navbar-toggler {
   font-size: 0.875rem;
@@ -11345,9 +11346,11 @@ section {
   font-weight: 600;
   text-transform: uppercase;
 }
+
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #071F4E;
 }
+
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #071F4E;
 }
@@ -11554,6 +11557,12 @@ footer a:hover, footer a:active, footer a:focus {
   padding: 10rem 0 6rem;
 }
 
+.masthead img {
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
 .masthead h1 {
   font-weight: 700;
   letter-spacing: -.025rem;
@@ -11673,7 +11682,10 @@ footer a:hover, footer a:active, footer a:focus {
 .schedule_item_speaker a {
   color: #274B47;
   font-weight: 600;
-  text-transform: uppercase;
+}
+
+.schedule_item_speaker a:hover {
+  color: rgb(220,53,69);
 }
 
 .schedule_item_speaker p {
@@ -11685,6 +11697,14 @@ footer a:hover, footer a:active, footer a:focus {
   display: block;
   color: #274B47;
   text-decoration: none;
+}
+
+.resource_item a h3 {
+  text-decoration: underline;
+}
+
+.resource_item a:hover h3 {
+  color: rgb(220,53,69);
 }
 
 .secondary-title {

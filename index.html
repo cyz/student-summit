@@ -10,15 +10,19 @@ title: Microsoft Student Summit Brasil
     <div class="container px-5 py-4">
         <div class="row gx-5 justify-content-center">
             <div class="col-xl-8">
-                <h1 class="lh-1 text-center display-2 mb-5 text-white">
-                    Microsoft Student Summit
-                </h1>
-                <p class="fw-normal lead mb-5 text-white text-center">
-                    Junte-se a nossa comunidade global e faça a diferença em seu campus
-                </p>
-                <a class="lh-1 btn-join-event rounded" href="https://aka.ms/CheckinMicrosoftStudentSummitBrasil" target="_blank" title="Inscreva-se no Student Summit">
-                    Inscreva-se no Student Summit
-                </a>
+                <figure>
+                    <img src="{{"assets/img/student-summit-logo.png" | relative_url }}"
+                         alt="Microsoft Student Summit" class="mx-auto mb-3" />
+                         <h1 class="lh-1 text-center display-2 mb-5 text-white">
+                            Microsoft Student Summit
+                        </h1>
+                        <p class="fw-normal lead mb-5 text-white text-center">
+                            Junte-se a nossa comunidade global e faça a diferença em seu campus
+                        </p>
+                        <a class="lh-1 btn-join-event rounded" href="https://aka.ms/CheckinMicrosoftStudentSummitBrasil" target="_blank" title="Inscreva-se no Student Summit">
+                            Inscreva-se no Student Summit
+                        </a>
+                </figure>                
             </div>                       
         </div>
     </div>
@@ -69,9 +73,9 @@ title: Microsoft Student Summit Brasil
                         <div class="row">
                             {% for speaker in content.speakers %}
                                 <div class="col-lg-1 col-2">
-                                    <img src="{{"assets/img/femalecodertocat.png" | relative_url }}" class="rounded-circle" />
+                                    <img src="{{"assets/img/speakers/" | relative_url }}{{ speaker.speaker_photo }}" class="rounded-circle" />
                                 </div>
-                                <div class="col-lg-4 col-10">
+                                <div class="col-lg-3 col-10">
                                     <p class="mb-0"><a href="{{ speaker.speaker_link }}" target="_blank" title="{{ speaker.speaker_name }}">{{ speaker.speaker_name }}</a></p>
                                 </div> 
                             {% endfor %}       

@@ -6,14 +6,14 @@
         "time": "19:00",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Scott Hanselman",
+                "speaker_link": "https://twitter.com/shanselman",
+                "speaker_photo": "scott.jpg"
             },
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Khushboo Verma",
+                "speaker_link": "https://twitter.com/khushbooverma_",
+                "speaker_photo": "khushbooverma.jpg"
             }
         ]
     },
@@ -24,14 +24,14 @@
         "time": "19:10",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Cynthia Zanoni",
+                "speaker_link": "https://twitter.com/cynthiazanoni",
+                "speaker_photo": "cynthia.jpg"
             },
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Pablo Lopes",
+                "speaker_link": "https://www.instagram.com/pab_nunes/",
+                "speaker_photo": "pablol.jpg"
             }
         ]
     },
@@ -42,14 +42,9 @@
         "time": "19:15",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Carla Mendes",
+                "speaker_link": "https://www.linkedin.com/in/carlamendescms",
+                "speaker_photo": "carla.jpg"
             }
         ]
     },
@@ -60,14 +55,19 @@
         "time": "19:30",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Thiago Cardoso",
+                "speaker_link": "https://www.linkedin.com/in/cardosothiago",
+                "speaker_photo": "thiago.jpg"
             },
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Douglas Neres",
+                "speaker_link": "https://www.linkedin.com/in/douglas-neres",
+                "speaker_photo": "douglas.jpg"
+            },
+            {
+                "speaker_name": "Gabriela Bevilaqua",
+                "speaker_link": "https://www.linkedin.com/in/gabrielabevilaqua",
+                "speaker_photo": "gabriela.jpg"
             }
         ]
     },
@@ -78,14 +78,9 @@
         "time": "20:00",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Pablo Veramendi",
+                "speaker_link": "https://twitter.com/IamPablo",
+                "speaker_photo": "pablov.jpg"
             }
         ]
     },
@@ -96,14 +91,9 @@
         "time": "20:05",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Monica Vezzali",
+                "speaker_link": "https://www.linkedin.com/in/monica-vezzali",
+                "speaker_photo": "monica.jpg"
             }
         ]
     },
@@ -111,53 +101,23 @@
         "title": "Intervalo",
         "description": "Pegue um cafézinho!",
         "duration": "5",
-        "time": "20:25",
-        "speakers": [
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            }
-        ]
+        "time": "20:25"
     },
     {
-        "title": "O que é Cloud?",
-        "description": "Você provavelmente já ouviu falar dessa “nuvem” que todo mundo vive falando. Ouça um especialista que irá desmistificar a nuvem e mostrar o que você pode fazer com ela.",
-        "duration": "20",
+        "title": "Cloud e primeiros passos com GitHub e Azure",
+        "description": "Você provavelmente já ouviu falar dessa “nuvem” que todo mundo vive falando. Neste workshop interativo, você vai aprender o que é cloud e a publicar seu próprio site na nuvem, utilizando GitHub e Azure.",
+        "duration": "60",
         "time": "20:30",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Cynthia Zanoni",
+                "speaker_link": "https://twitter.com/cynthiazanoni",
+                "speaker_photo": "cynthia.jpg"
             },
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            }
-        ]
-    },
-    {
-        "title": "Primeiros passos em Cloud com GitHub e Azure",
-        "description": "Neste workshop interativo, você vai aprender a publicar seu próprio site na nuvem, utilizando GitHub e Azure.",
-        "duration": "45",
-        "time": "20:50",
-        "speakers": [
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Lavínia Paganini",
+                "speaker_link": "https://twitter.com/LFPaganini",
+                "speaker_photo": "lv.jpg"
             }
         ]
     },
@@ -168,14 +128,14 @@
         "time": "21:35",
         "speakers": [
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Felipe Chikuji",
+                "speaker_link": "https://www.linkedin.com/in/felipe-kenji-chikuji/",
+                "speaker_photo": "felipe.jpg"
             },
             {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
+                "speaker_name": "Orlando Mariano",
+                "speaker_link": "https://www.linkedin.com/in/orlandomariano",
+                "speaker_photo": "orlando.jpg"
             }
         ]
     },
@@ -183,18 +143,6 @@
         "title": "Encerramento",
         "description": "Fique por dentro das próximas atividades no Reactor São Paulo.",
         "duration": "5",
-        "time": "22",
-        "speakers": [
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            },
-            {
-                "speaker_name": "recOrpuBz7Cg6NsYg",
-                "speaker_link": "recOrpuBz7Cg6NsYg",
-                "speaker_photo": "recOrpuBz7Cg6NsYg"
-            }
-        ]
+        "time": "22"
     }
 ]
