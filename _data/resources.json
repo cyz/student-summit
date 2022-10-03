@@ -1,17 +1,22 @@
 [
     {
-        "title": "Boas vindas ao Student Summit 2022!",
-        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira.",
-        "link": "10"
+        "title": "Carreiras na Microsfot",
+        "description": "Acesse nosso site e confira vagas de estágio e FTE (Full Time Employee - CLT)",
+        "link": "https://careers.microsoft.com/students/us/en/?wt.mc_id=1reg_170932_webpage_reactor"
     },
     {
-        "title": "Boas vindas ao Student Summit 2022!",
-        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira.",
-        "link": "10"
+        "title": "Founders Hub",
+        "description": "Saiba como as startups lançam produtos e crescem com a ajuda do Founders Hub!",
+        "link": "https://foundershub.startups.microsoft.com/signup/?wt.mc_id=1reg_170932_webpage_reactor"
     },
     {
-        "title": "Boas vindas ao Student Summit 2022!",
-        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira.",
-        "link": "10"
+        "title": "Imagine Cup 2022",
+        "description": "A Imagine Cup está repleta de oportunidades para adquirir novas habilidades, acessar treinamentos exclusivos, desbloquear oportunidades de orientação e ter a chance de ganhar ótimos prêmios e fazer a diferença no mundo.",
+        "link": "https://imaginecup.microsoft.com/pt-br/Events/?wt.mc_id=1reg_170932_webpage_reactor"
+    },
+    {
+        "title": "Microsoft Learn para Estudantes: cursos e certificações gratuitas",
+        "description": "A preparação para sua carreira em tecnologia começa aqui e com recursos gratuitos. Dezenas de cursos gratuitos e programas para certificação técnica e acesso a programas como GitHub Student Developer Pack e Azure for Students.",
+        "link": "https://learn.microsoft.com/pt-br/training/student-hub/?wt.mc_id=1reg_170932_webpage_reactor"
     }
 ]
