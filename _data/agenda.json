@@ -1,27 +1,9 @@
 [
     {
-        "title": "Boas vindas ao Student Summit 2022!",
-        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira.",
-        "duration": "10",
-        "time": "19:00",
-        "speakers": [
-            {
-                "speaker_name": "Scott Hanselman",
-                "speaker_link": "https://twitter.com/shanselman",
-                "speaker_photo": "scott.jpg"
-            },
-            {
-                "speaker_name": "Khushboo Verma",
-                "speaker_link": "https://twitter.com/khushbooverma_",
-                "speaker_photo": "khushbooverma.jpg"
-            }
-        ]
-    },
-    {
-        "title": "Conheça seus hosts locais!",
-        "description": "Conecte-se com Cynthia Zanoni e Pablo Lopes, nossos convidados e participe das atividades.",
-        "duration": "5",
-        "time": "19:10",
+        "title": "Abertura e Recado do Scott Hanselman",
+        "description": "Conheça a trajetória inspiradora de profissionais da Microsoft e comunidades de tecnologia e obtenha dicas valiosas para crescer na sua carreira. Conecte-se com Cynthia Zanoni e Pablo Lopes, nossos convidados e participe das atividades.",
+        "duration": "15",
+        "time": "18:45",
         "speakers": [
             {
                 "speaker_name": "Cynthia Zanoni",
@@ -39,7 +21,7 @@
         "title": "Minha jornada na tecnologia",
         "description": "Conheça a história de Carla Mendes e sua transição de carreira para tecnologia.",
         "duration": "15",
-        "time": "19:15",
+        "time": "19:05",
         "speakers": [
             {
                 "speaker_name": "Carla Mendes",
@@ -49,10 +31,10 @@
         ]
     },
     {
-        "title": "Painel de Carreira",
+        "title": "Painel Carreira em Tecnologia",
         "description": "Tire suas dúvidas sobre ter uma carreira em tecnologia! Por onde você começa e como é quando chega lá?",
-        "duration": "30",
-        "time": "19:30",
+        "duration": "35",
+        "time": "19:20",
         "speakers": [
             {
                 "speaker_name": "Thiago Cardoso",
@@ -75,7 +57,7 @@
         "title": "Lançamento da Imagine Cup",
         "description": "A Imagine Cup está de volta. Saiba mais sobre esta emocionante competição global e como você pode começar a fazer a diferença no mundo se envolvendo.",
         "duration": "5",
-        "time": "20:00",
+        "time": "19:55",
         "speakers": [
             {
                 "speaker_name": "Pablo Veramendi",
@@ -87,8 +69,8 @@
     {
         "title": "Design Thinking na prática",
         "description": "Traga suas ideias para esta divertida e rápida atividade de design thinking. Aprenda a transformar suas ideias em projetos inovadores!",
-        "duration": "25",
-        "time": "20:05",
+        "duration": "20",
+        "time": "20:00",
         "speakers": [
             {
                 "speaker_name": "Monica Vezzali",
@@ -101,13 +83,13 @@
         "title": "Intervalo",
         "description": "Pegue um cafézinho!",
         "duration": "5",
-        "time": "20:25"
+        "time": "20:20"
     },
     {
         "title": "Cloud e primeiros passos com GitHub e Azure",
         "description": "Você provavelmente já ouviu falar dessa “nuvem” que todo mundo vive falando. Neste workshop interativo, você vai aprender o que é cloud e a publicar seu próprio site na nuvem, utilizando GitHub e Azure.",
-        "duration": "60",
-        "time": "20:30",
+        "duration": "40",
+        "time": "20:25",
         "speakers": [
             {
                 "speaker_name": "Cynthia Zanoni",
@@ -124,8 +106,8 @@
     {
         "title": "Descobrindo a Imagine Cup",
         "description": "Aprenda com mentores, juízes e competidores a transformar suas ideias em realidade com a Imagine Cup!",
-        "duration": "25",
-        "time": "21:35",
+        "duration": "45",
+        "time": "21:05",
         "speakers": [
             {
                 "speaker_name": "Felipe Chikuji",
@@ -143,6 +125,6 @@
         "title": "Encerramento",
         "description": "Fique por dentro das próximas atividades no Reactor São Paulo.",
         "duration": "5",
-        "time": "22"
+        "time": "21:50"
     }
 ]
