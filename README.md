@@ -28,4 +28,4 @@ Siga as instruções abaixo para configuração completa:
 ## ☁️ Publicando o projeto com Azure Static Web Apps
 Siga o passo a passo indicado pelo [tutorial do Microsoft Learn](https://aka.ms/StudentSummitBrasil) e lembre-se de realizar os ajustes necessários para o funcionamento do Jekyll.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NmjwsCExIQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Acesse o vídeo do workshop](https://www.youtube.com/watch?v=NmjwsCExIQM&ab_channel=MicrosoftReactor)
