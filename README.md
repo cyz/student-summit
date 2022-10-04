@@ -1,4 +1,4 @@
-# Student Summit Brasil: Site Estático utilizando SWA e GitHub Actions
+# Student Summit Brasil: Site Estático utilizando SWA e GitHub Actions [(veja o site publicado)](https://lemon-bay-004f3460f.2.azurestaticapps.net/)
 
 Repositório da demo apresentada no Student Summit com **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?wt.mc_id=seriespg_17010_webpage_reactor)** e **[GitHub Actions](https://help.github.com/pt/actions)**
 
@@ -26,3 +26,4 @@ Siga as instruções abaixo para configuração completa:
 8. Executando em sua máquina: `bundle exec jekyll serve`
 
 ## ☁️ Publicando o projeto com Azure Static Web Apps
+Siga o passo a passo indicado pelo [tutorial do Microsoft Learn](https://aka.ms/StudentSummitBrasil) e lembre-se de realizar os ajustes necessários para o funcionamento do Jekyll.
